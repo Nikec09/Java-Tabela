@@ -1,4 +1,7 @@
 # Java-Tabela
+
+Link: https://github.com/Nikec09/Java-Tabela/blob/main/Naloga6.java
+
 ☕📊 Vaje in primeri uporabe tabel v Javi, vključno z ustvarjanjem tabel, shranjevanjem podatkov, dostopanjem do elementov ter uporabo zank za obdelavo podatkov. 💻🔄
 
 ☕ Java osnove – Učenje osnov Jave, spremenljivk, podatkovnih tipov, pogojev in zank. 💻
